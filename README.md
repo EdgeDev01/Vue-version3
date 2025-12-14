@@ -4,23 +4,16 @@
 
 Please follow the documentation at [vuejs.org](https://vuejs.org/)!
 
-## Sponsors
+## Information and The Facts
 
 Vue.js is an MIT-licensed open source project with its ongoing development made possible entirely by the support of these awesome [backers](https://github.com/vuejs/core/blob/main/BACKERS.md).
 ## Questions
 
-For questions and support please use [the official forum](https://forum.vuejs.org) or [community chat](https://chat.vuejs.org/). The issue list of this repo is **exclusively** for bug reports and feature requests.
+For questions and support please use [the official forum](https://forum.vuejs.org) or [community chat](https://chat.vuejs.org/). The issue list of this repo is reserved **exclusively** for bug reports and feature requests.
 
 ## Issues
 
 Please make sure to respect issue requirements and use [the new issue helper](https://new-issue.vuejs.org/) when opening an issue. Issues not conforming to the guidelines may be closed immediately.
-
-## Stay In Touch
-
-- [X](https://x.com/vuejs)
-- [Bluesky](https://bsky.app/profile/vuejs.org)
-- [Blog](https://blog.vuejs.org/)
-- [Job Board](https://vuejobs.com/?ref=vuejs)
 
 ## Contribution
 
