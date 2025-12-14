@@ -114,8 +114,8 @@ importers:
         specifier: ^3.0.4
         version: 3.0.4
       marked:
-        specifier: 13.0.3
-        version: 13.0.3
+        specifier: 17.0.1
+        version: 17.0.1
       npm-run-all2:
         specifier: ^8.0.4
         version: 8.0.4
@@ -2578,14 +2578,14 @@ packages:
   markdown-table@3.0.4:
     resolution: {integrity: sha512-wiYz4+JrLyb/DqW2hkFJxP7Vd7JuTDm77fvbM8VfEQdmSMqcImWeeRbHwZjBjIFki/VaMK2BhFi7oUUZeM5bqw==}
 
-  marked@13.0.3:
-    resolution: {integrity: sha512-rqRix3/TWzE9rIoFGIn8JmsVfhiuC8VIQ8IdX5TfzmeBucdY05/0UlzKaw0eVtpcN/OdVFpBk7CjKGo9iHJ/zA==}
-    engines: {node: '>= 18'}
-    hasBin: true
-
   marked@14.0.0:
     resolution: {integrity: sha512-uIj4+faQ+MgHgwUW1l2PsPglZLOLOT1uErt06dAPtx2kjteLAkbsd/0FiYg/MGS+i7ZKLb7w2WClxHkzOOuryQ==}
     engines: {node: '>= 18'}
+    hasBin: true
+
+  marked@17.0.1:
+    resolution: {integrity: sha512-boeBdiS0ghpWcSwoNm/jJBwdpFaMnZWRzjA6SkUMYb40SVaN1x7mmfGKp0jvexGcx+7y2La5zRZsYFZI6Qpypg==}
+    engines: {node: '>= 20'}
     hasBin: true
 
   mdn-data@2.12.2:
@@ -5608,9 +5608,9 @@ snapshots:
 
   markdown-table@3.0.4: {}
 
-  marked@13.0.3: {}
-
   marked@14.0.0: {}
+
+  marked@17.0.1: {}
 
   mdn-data@2.12.2: {}
 
