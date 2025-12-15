@@ -95,7 +95,7 @@
     "prettier": "^3.7.4",
     "pretty-bytes": "^7.1.0",
     "pug": "^3.0.3",
-    "puppeteer": "~24.28.0",
+    "puppeteer": "~24.33.0",
     "rimraf": "^6.1.2",
     "rollup": "^4.52.5",
     "rollup-plugin-dts": "^6.3.0",
