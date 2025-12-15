@@ -134,5 +134,11 @@ function isComment(item: SSRBufferItem) {
   if (typeof item !== 'string' || !commentTestRE.test(item)) return false
   // if item is '<!---->' or '<!--[-->' or '<!--]-->', return true directly
   if (item.length <= 8) return true
-  return !item.replace(commentRE, '').trim()
+  let s = item;
+  let prev;
+  do {
+    prev = s;
+    s = s.replace(commentRE, '');
+  } while (s !== prev);
+  return !s.trim();
 }
