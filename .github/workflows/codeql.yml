@@ -7,7 +7,7 @@ on:
     # Run on PRs targeting main
     branches: [ "main" ]
   schedule:
-    - cron: '0 0 * * 0' # weekly run
+    - cron: '0 0 * * 0' # daily run
 
 jobs:
   analyze:
