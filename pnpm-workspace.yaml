@@ -5,7 +5,7 @@ packages:
 catalog:
   '@babel/parser': ^7.28.5
   '@babel/types': ^7.28.5
-  'estree-walker': ^2.0.2
+  'estree-walker': ^3.0.3
   'magic-string': ^0.30.21
   'source-map-js': ^1.2.1
   'vite': ^7.2.7
